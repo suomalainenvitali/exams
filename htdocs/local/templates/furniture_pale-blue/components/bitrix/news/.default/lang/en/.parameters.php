@@ -9,4 +9,5 @@ $MESS["T_IBLOCK_DESC_NEWS_SHARE_SYSTEM"] = "Use Social Networks And Bookmarks";
 $MESS["T_IBLOCK_DESC_NEWS_SHARE_SHORTEN_URL_LOGIN"] = "bit.ly Login";
 $MESS["T_IBLOCK_DESC_NEWS_SHARE_SHORTEN_URL_KEY"] = "bit.ly Key";
 $MESS["SPECIALDATE"] = "Set the property of the page \"specialdate\"";
+$MESS["ID_IBLOCK_CANONICAL"] = "ID information block for \"rel=canonical\"";
 ?>
