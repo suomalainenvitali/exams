@@ -411,3 +411,8 @@
 172.19.0.4 -  05/Dec/2022:17:07:35 +0000 "GET /bitrix/tools/public_session.php" 200
 172.19.0.4 -  05/Dec/2022:17:17:49 +0000 "GET /bitrix/tools/public_session.php" 200
 172.19.0.4 -  05/Dec/2022:17:19:35 +0000 "GET /bitrix/tools/public_session.php" 200
+172.19.0.4 -  05/Dec/2022:17:30:41 +0000 "GET /bitrix/tools/public_session.php" 200
+172.19.0.4 -  05/Dec/2022:17:30:44 +0000 "GET /news/index.php" 200
+172.19.0.4 -  05/Dec/2022:17:30:45 +0000 "GET /local/templates/furniture_pale-blue/components/bitrix/news/.default/images/gif-light/feed-icon-16x16.gif" 200
+172.19.0.4 -  05/Dec/2022:17:30:47 +0000 "GET /news/index.php" 200
+172.19.0.4 -  05/Dec/2022:17:30:48 +0000 "GET /local/templates/furniture_pale-blue/components/bitrix/news/.default/images/gif-light/feed-icon-16x16.gif" 200
